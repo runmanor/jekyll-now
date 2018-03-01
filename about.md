@@ -4,6 +4,8 @@ title:
 permalink: /about/
 ---
 
+## CVPR
+
 ### Textbook
 
 1. 《Computer Vision: A Modern Approach》 by Forsyth and Ponce. Prentice Hall, 2002.

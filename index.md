@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: 课程信息
 permalink: 
 ---
 

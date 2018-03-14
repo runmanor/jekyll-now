@@ -21,7 +21,7 @@ permalink:
 
 ### EX1(ddl: 2018.3.18)
 
-[[pdf](/homework/Ex1.zip)] 
+[[homework](/homework/Ex1.zip)] 
 
 ### Lecture 3
 

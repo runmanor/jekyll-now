@@ -26,7 +26,7 @@ permalink:
 ### Lecture 3
 
 1. Introduction to Low Level of Vision - Edge (Part1). [[pdf](/ppt/3_Edge_Part1.pdf)]
-2. Introduction to Hough Tranformation (Part2). [[pdf](/ppt/3_Edge-Part2.pdf)]
+2. Introduction to Hough Tranformation (Part2). [[pdf](/ppt/3_Edge_Part2.pdf)]
 
 ### Ex2(ddl: 2018.4.12)
 

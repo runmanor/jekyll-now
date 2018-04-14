@@ -32,7 +32,15 @@ permalink:
 
 [[homework](/homework/Ex2.zip)]
 
+### Ex3(ddl: 2018.4.25)
+
+[[homework](/homework/Ex3.zip)]
+
+[备用云盘链接](https://pan.baidu.com/s/1hCwfU7F7r-_z4ywJdkQSzQ)  密码：ftcj
+
 <br>
+
+
 
 ### 计算机视觉-作业提交<font color="#DC143C">（更新）</font>
 

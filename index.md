@@ -38,9 +38,17 @@ permalink:
 
 [备用云盘链接](https://pan.baidu.com/s/1hCwfU7F7r-_z4ywJdkQSzQ)  密码：ftcj
 
+### Lecture 5
+
+1. Introduction to Image Morphing. [[pdf](/ppt/05. warping-morphing.pdf)]
+
+### Ex4(ddl: 2018.5.8)
+
+[[homework](/homework/Ex4.zip)]
+
+[备用云盘链接](https://pan.baidu.com/s/1VKr09WQzSz4Pw6mI5zw-Pw)  密码：oqwg
+
 <br>
-
-
 
 ### 计算机视觉-作业提交<font color="#DC143C">（更新）</font>
 

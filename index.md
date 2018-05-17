@@ -48,6 +48,14 @@ permalink:
 
 [备用云盘链接](https://pan.baidu.com/s/1VKr09WQzSz4Pw6mI5zw-Pw)  密码：oqwg
 
+### Lecture 6
+
+1. Image Segmentation. [[pdf](/ppt/06. Image segmentation.pdf)]
+
+### Ex5(ddl: 2018.5.26)
+
+[[homework](/homework/Ex5.docx)]
+
 <br>
 
 ### 计算机视觉-作业提交<font color="#DC143C">（更新）</font>

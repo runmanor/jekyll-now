@@ -38,7 +38,7 @@ permalink:
 
 [备用云盘链接](https://pan.baidu.com/s/1hCwfU7F7r-_z4ywJdkQSzQ)  密码：ftcj
 
-### Lecture 5
+### Lecture 4
 
 1. Introduction to Image Morphing. [[pdf](/ppt/05. warping-morphing.pdf)]
 
@@ -48,13 +48,24 @@ permalink:
 
 [备用云盘链接](https://pan.baidu.com/s/1VKr09WQzSz4Pw6mI5zw-Pw)  密码：oqwg
 
-### Lecture 6
+### Lecture 5
 
 1. Image Segmentation. [[pdf](/ppt/06. Image segmentation.pdf)]
 
 ### Ex5(ddl: 2018.5.26)
 
 [[homework](/homework/Ex5.docx)]
+
+### Lecture 6
+
+1. SIFT Introduction. [[pdf](/ppt/01. SIFT Introduction.pdf)]
+2. Ransac and Image Stitching. [[pdf](/ppt/02. Ransac and Image Stitching.pdf)]
+
+### Ex6(ddl: 2018.6.24)
+
+[[homework](/homework/Ex6.zip)]
+
+[备用云盘链接](https://pan.baidu.com/s/1SZzTgXk8mUvHlQfF0-RRUg)  密码：dpfr
 
 <br>
 

@@ -67,6 +67,10 @@ permalink:
 
 [备用云盘链接](https://pan.baidu.com/s/1SZzTgXk8mUvHlQfF0-RRUg)  密码：dpfr
 
+### Lecture 7
+
+1. Adaboost. [[pdf](/ppt/09. Adaboost.pdf)]
+
 <br>
 
 ### 计算机视觉-作业提交<font color="#DC143C">（更新）</font>

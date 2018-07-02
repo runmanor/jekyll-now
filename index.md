@@ -71,6 +71,10 @@ permalink:
 
 1. Adaboost. [[pdf](/ppt/09. Adaboost.pdf)]
 
+### Final Project
+
+[[pdf](/homework/Final_Project.zip)]
+
 <br>
 
 ### 计算机视觉-作业提交<font color="#DC143C">（更新）</font>

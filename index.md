@@ -75,6 +75,10 @@ permalink:
 
 [[pdf](/homework/Final_Project.zip)]
 
+[test-data](/homework/test.zip)  
+
+[备用云盘](https://pan.baidu.com/s/1Ni3NXElju8qjUCsXBt8gCg)  密码：48cu
+
 <br>
 
 ### 计算机视觉-作业提交<font color="#DC143C">（更新）</font>
